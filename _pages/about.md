@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-How do dendrites facilite information processing? How can we wire the understandings from cellular level to high level functionalities in neuroscience? When can I upload myself to a virtual world and live there purely with consciousness? I don't know, but I'm a passionate learner to ask and explore. 
+How do dendrites facilite neuronal information processing? How can we wire the understandings from cellular level to high level functionalities in neuroscience? When can I upload myself to a virtual world and live there purely with consciousness? I don't know, but I'm a passionate learner to ask and explore. 
 
 Currently a PhD student in Bio Engineering Laboratory at ETH Zurich, I develop multi-modal approaches and analysis tools by combining advanced functional imaging and high-density microelectrode array (HD-MEA) for the investigation of neuronal activity and network modalities. 
 
