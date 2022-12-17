@@ -13,4 +13,4 @@ Currently a PhD student in Bio Engineering Laboratory at ETH Zurich, I develop m
 
 Previously, I was trained as a Mechatronics and Microsystem engineer at Northwestern Polytechnical University in Xi'an, China (2011 -- 2018). With almost 6 years research training in different labs and projects, including robotics, microfabrications, sensors and fluidics controls, I decided to move towards the field of Brain-Computer Interface and neurotechnology, which led me to my current group.
 
-Outside of the lab, I love exploring the nature and various outdoor sports. My "not wild" hobbies includes playing the violin, watching movies, observing gorillas and doing small tech side-projects to fulfil my own curiousity. 
+Outside of the lab, I love exploring the nature and various outdoor sports. My "not wild" hobbies involve playing the violin, building legos, observing gorillas and doing small tech side-projects to fulfil my own curiousity. 
