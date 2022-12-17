@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaohan Xue"
   avatar           : "profile.png"
-  bio              : "PhD student at ETHZ, Bio Engineering Laboratory. I'm interested in neural engineering, brain-computer interface, and neurotechnology."
+  bio              : "PhD student at ETHZ, Bio Engineering Laboratory. I'm interested in exploring novel methodologies and tools for neuroscience study and neurotechnology."
   location         : "Basel, Switzerland"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tRPVNLcAAAAJ&hl=en&inst=8002290715046025403"
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xiaohan-xue-87984195/"
+  linkedin         : "/xiaohan-xue-87984195/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5398-2368"
   pinterest        :
   soundcloud       :
