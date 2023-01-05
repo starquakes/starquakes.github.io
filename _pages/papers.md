@@ -32,7 +32,7 @@ Sreedhar Kumar, Tobias Gänswein, Alessio P. Buccino, <b>Xiaohan Xue</b>, Julian
 <a href="https://www.sciencedirect.com/science/article/pii/S0300944019300633">
 <b>A thermoresponsive film applicable to diverse substrates for controllable sessile droplets motion</b></a><br>
 <i>Progress in Organic Coatings (2019)</i><br> 
-<b>Xiaohan Xue</b>, Baoyun Sun, Bo Wang, Binghe Ma, and Chengyu Jiang
+<b>Xiaohan Xue</b>, Baoyun Sun, Bo Wang, Binghe Ma, Chengyu Jiang
 </p>
 
 <p>
