@@ -53,6 +53,13 @@ Bo Wang*, <b>Xiaohan Xue</b>*, Xiaocheng Liu, Pavel Neužil, Binghe Ma, Weizheng
 Alessio P. Buccino, Tanguy Damart, Julian Bartram, Darshan Mandge, <b>Xiaohan Xue</b>, Mickael Zbili, Tobias Gänswein, Aurelién Jaquier, Vishalini Emmenegger, Henry Markram, Andreas Hierlemann and Werner Van Geit
 </p>
 
+<p>
+<a href="https://www.biorxiv.org/content/10.1101/2023.01.06.523018v1">
+<b>A detailed input-output characterization of single neurons reveals the synaptic basis of spontaneous spiking in recurrent networks</b></a><br>
+<i>biorXiv (2023)</i><br>
+Julian Bartram, Felix Franke, Sreedhar Kumar, Alessio P. Buccino, <b>Xiaohan Xue</b>, Tobias Gänswein, Manuel Schröter, Taehoon Kim, Krishna Chaitanya Kasuba, Andreas Hierlemann
+</p>
+
 # Conference
 
 <p>
