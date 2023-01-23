@@ -11,7 +11,7 @@ author_profile: true
 <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ac8765">
 <b>Inferring monosynaptic connections from paired dendritic spine Ca2+ imaging and large-scale recording of extracellular spiking</b></a><br>
 <i>Journal of Neural Engineering (2022)</i><br>
-<b>Xiaohan Xue</b>, Alessio P. Buccino, Sreedhar Kumar, Andreas Hierlemann and Julian Bartram
+<b>Xiaohan Xue</b>*, Alessio P. Buccino*, Sreedhar Kumar, Andreas Hierlemann and Julian Bartram
 </p>
 
 <p>
