@@ -55,10 +55,18 @@ Alessio P. Buccino, Tanguy Damart, Julian Bartram, Darshan Mandge, <b>Xiaohan Xu
 
 <p>
 <a href="https://www.biorxiv.org/content/10.1101/2023.01.06.523018v1">
-<b>A detailed input-output characterization of single neurons reveals the synaptic basis of spontaneous spiking in recurrent networks</b></a><br>
+<b>Parallel reconstruction of the excitatory and inhibitory inputs received by single neurons reveals the synaptic basis of recurrent spiking</b></a><br>
 <i>biorXiv (2023)</i><br>
 Julian Bartram, Felix Franke, Sreedhar Kumar, Alessio P. Buccino, <b>Xiaohan Xue</b>, Tobias Gänswein, Manuel Schröter, Taehoon Kim, Krishna Chaitanya Kasuba, Andreas Hierlemann
 </p>
+
+<p>
+<a href="https://www.biorxiv.org/content/10.1101/2023.03.17.533120v1">
+<b>Harnessing PROTAC technology to combat stress hormone receptor activation</b></a><br>
+<i>biorXiv (2023)</i><br>
+Mahshid Gazorpak, Karina M Hungentobler, Paul Dominique, Pierre-Luc Germain, Kei Mathis, Remo Rudolf, Sergio Mompart Barrenechea, Miriam Kretschmer, Vincent Valentin Fischer, <b>Xiaohan Xue</b>, Mattia Privitera, Iryna Ivanova, Andreas Hierlemann, Onno C Meijer, Erick M Carreira, Johannes Bohacek, Katharina Gapp
+</p>
+
 
 # Conference
 
