@@ -9,7 +9,7 @@ redirect_from:
 ---
 How do dendrites facilitate neuronal information processing? How can we wire the understanding from the cellular level to the high-level functionalities of our brain? When can I upload myself to a virtual world and live there purely with consciousness? I don't know, but I'm a passionate learner to ask and explore. 
 
-As a recently graduated Ph.D. candidate (2023. June) at ETH Zurich, my research topic is to develop multi-modal approaches to investigate neuronal activity and neural networks. For more details, please check my publications [here](https://starquakes.github.io/papers/). Besides my studies, I am very interested in the confluence of IoT technologies, data engineering, and cloud computing.
+As a recent Ph.D. graduate (2023. June) from ETH Zurich, my research topic was to develop multi-modal approaches to investigate neuronal activity and neural networks. For more details, please refer to my publications [here](https://starquakes.github.io/papers/). Besides my studies, I am very interested in the confluence of IoT technologies, data engineering, and cloud computing.
 
 Previously, I was trained as a Mechatronics and Microsystem engineer at Northwestern Polytechnical University in Xi'an, China (2011 -- 2018). With almost 6 years of research training in different labs and projects, including robotics, microfabrication, and sensors, I decided to move toward the field of neurotechnology and big data, which led me to my current group.
 
