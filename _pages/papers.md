@@ -17,7 +17,7 @@ author_profile: true
 <p>
 <a href="https://elifesciences.org/reviewed-preprints/86820">
 <b>Parallel reconstruction of the excitatory and inhibitory inputs received by single neurons reveals the synaptic basis of recurrent spiking</b></a><br>
-<i>biorXiv (2023)</i><br>
+<i>eLife (2023)</i><br>
 Julian Bartram, Felix Franke, Sreedhar Kumar, Alessio P. Buccino, <b>Xiaohan Xue</b>, Tobias Gänswein, Manuel Schröter, Taehoon Kim, Krishna Chaitanya Kasuba, Andreas Hierlemann
 </p>
 
