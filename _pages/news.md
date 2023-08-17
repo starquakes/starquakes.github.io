@@ -4,9 +4,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-## 2023-6-9 <br>
+## 2023-06-09 <br>
 
-I successfully defended my Ph.D. thesis! My colleagues did great work on the hat, and I absolutely love it! Thank you, everyone!!<br>
+I successfully defended my Ph.D. thesis! My colleagues did great work on the hat, and I absolutely love it! It is much appreciated to celebrate this special moment together with my family and friends. Thank you, everyone!!<br>
 
 <p align="center">
   <img src="../images/news-defense.png" width="400" height="200">
