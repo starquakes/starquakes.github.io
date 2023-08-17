@@ -6,8 +6,9 @@ author_profile: true
 ---
 ## 2023-6-9 <br>
 
-I successfully defended my Ph.D. thesis! My colleagues did great work on the hat, and I really love it! Thank you, everyone :heart:!
-![](../images/news-defense.png)
+I successfully defended my Ph.D. thesis! My colleagues did great work on the hat, and I absolutely love it! Thank you, everyone!!
+<img src="../images/news-defense.png" width="100" height="60">
+
 ![my hat](../images/hat.jpeg)
 
 ## 2022-12-17 <br>
