@@ -8,8 +8,7 @@ author_profile: true
 
 I successfully defended my Ph.D. thesis! My colleagues did great work on the hat, and I absolutely love it! Thank you, everyone!!
 <img src="../images/news-defense.png" width="100" height="60">
-
-![my hat](../images/hat.jpeg)
+<img src="../images/hat.jpeg" width="50" height="30">
 
 ## 2022-12-17 <br>
 
