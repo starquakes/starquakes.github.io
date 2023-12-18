@@ -15,6 +15,13 @@ author_profile: true
 </p>
 
 <p>
+<a href="https://www.nature.com/articles/s41467-023-44031-2">
+<b>Harnessing PROTAC technology to combat stress hormone receptor activation</b></a><br>
+<i>Nature Communications (2023)</i><br>
+Mahshid Gazorpak, Karina M. Hugentobler, Dominique Paul, Pierre-Luc Germain, Miriam Kretschmer, Iryna Ivanova, Selina Frei, Kei Mathis, Remo Rudolf, Sergio Mompart Barrenechea, Vincent Fischer, <b>Xiaohan Xue</b>, Aleksandra L. Ptaszek, Julian Holzinger, Mattia Privitera, Andreas Hierlemann, Onno C. Meijer, Robert Konrat, Erick M. Carreira, Johannes Bohacek, Katharina Gapp 
+</p>
+
+<p>
 <a href="https://elifesciences.org/reviewed-preprints/86820">
 <b>Parallel reconstruction of the excitatory and inhibitory inputs received by single neurons reveals the synaptic basis of recurrent spiking</b></a><br>
 <i>eLife (2023)</i><br>
@@ -58,13 +65,6 @@ Bo Wang*, <b>Xiaohan Xue</b>*, Xiaocheng Liu, Pavel Neužil, Binghe Ma, Weizheng
 <b>A multi-modal fitting approach to construct single-neuron models with patch clamp and high-density microelectrode arrays</b></a><br>
 <i>biorXiv (2022)</i><br>
 Alessio P. Buccino, Tanguy Damart, Julian Bartram, Darshan Mandge, <b>Xiaohan Xue</b>, Mickael Zbili, Tobias Gänswein, Aurelién Jaquier, Vishalini Emmenegger, Henry Markram, Andreas Hierlemann and Werner Van Geit
-</p>
-
-<p>
-<a href="https://www.biorxiv.org/content/10.1101/2023.03.17.533120v1">
-<b>Harnessing PROTAC technology to combat stress hormone receptor activation</b></a><br>
-<i>biorXiv (2023)</i><br>
-Mahshid Gazorpak, Karina M Hungentobler, Paul Dominique, Pierre-Luc Germain, Kei Mathis, Remo Rudolf, Sergio Mompart Barrenechea, Miriam Kretschmer, Vincent Valentin Fischer, <b>Xiaohan Xue</b>, Mattia Privitera, Iryna Ivanova, Andreas Hierlemann, Onno C Meijer, Erick M Carreira, Johannes Bohacek, Katharina Gapp
 </p>
 
 
